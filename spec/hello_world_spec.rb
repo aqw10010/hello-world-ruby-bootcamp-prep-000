@@ -11,4 +11,3 @@ describe "Hello World" do
   end
 end
 puts "Hello World!"
-hello_world.rb 
