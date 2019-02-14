@@ -11,4 +11,5 @@ describe "Hello World" do
   end
 end
 puts "Hello World!"
-hello_world.rb 
+$ ruby hello_world.rb
+Hello World!
