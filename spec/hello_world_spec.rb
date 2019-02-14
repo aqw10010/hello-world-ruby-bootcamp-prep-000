@@ -10,6 +10,3 @@ describe "Hello World" do
     load './hello_world.rb'
   end
 end
-puts "Hello World!"
-$ ruby hello_world.rb
-Hello World!
